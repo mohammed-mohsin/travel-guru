@@ -1,0 +1,29 @@
+
+.booking-page{
+    height: 100vh;
+    overflow: hidden;
+  }
+  .layer{
+    background-color: rgba(0,0,0, 0.5);
+    height: 100%;
+    width: 100%;
+    transition:.5;
+  
+  }
+  .booking-title{
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    font-size:5rem;
+  }
+  .booking-description{
+    color: lightgrey;
+  }
+
+  
+.card{
+    border-radius: 10px;
+}
+.row-center{
+  margin-top:20%
+}

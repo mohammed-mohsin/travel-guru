@@ -1,0 +1,46 @@
+.login{
+
+}
+.login .card{
+    margin:100px auto ;
+    height:auto;
+    width:450px;
+    border:1px solid;
+    padding:20px;
+    box-shadow: 0 10px 6px -6px #777;
+}
+.login .card h3{
+    margin:20px;
+}
+
+.login .card .form-control{
+    border:none;
+    border-bottom: 1px solid gold;
+    
+}
+
+.or
+{
+   
+	display: block;
+	width: 50%;
+	height: 1px;
+	border-bottom: 1px solid #dee3e4;
+	position: relative;
+    margin: 20px auto;
+    
+}
+
+.or:before
+{
+	content: 'or';
+	width: 40px;
+	height: 18px;
+	position: absolute;
+	top: -5px;
+	right: calc(50% - 20px);
+	background-color: #fff;
+	text-align: center;
+	line-height: 10px;
+	color: #555
+}

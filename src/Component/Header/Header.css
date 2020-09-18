@@ -1,0 +1,33 @@
+.header{
+    z-index: 1;
+ 
+    
+}
+.search-bar{
+    background-color: rgba(211,211,211, 0.3);
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 30%;
+    display: flex !important;
+}
+.icon{
+    color: white !important;
+    display: flex;
+    font-size:16px;
+    margin-left:10px;
+    align-items: center;
+    justify-content: center;
+}
+.search{
+    background-color:transparent !important;
+    border: none;
+    color: white;
+    cursor: pointer;
+    width: 100%;
+}
+.search:focus{
+    background-color:transparent !important;
+    border: none;
+    color: white;
+    cursor: pointer;
+}

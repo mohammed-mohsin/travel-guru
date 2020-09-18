@@ -1,0 +1,42 @@
+
+.title{
+    margin-top:100px;
+    margin-bottom:100px;
+    font-size:24px;
+    font-weight: bold;
+}
+
+.single-room{
+    height: 188px;
+    width: 614px;
+    /* background-color:rebeccapurple; */
+}
+.single-room img{
+    height: 188px;
+    width: 270px;
+    border-radius:10px;
+}
+.single-room .description{
+    height: 188px;
+    width: 270px;
+    border-radius:10px;
+}
+.single-room .description h5{
+    font-size:18px;
+    
+}
+.single-room .description p{
+    font-size:16px;
+    color: #6a6a6a;
+
+}
+.star{
+    color: gold;
+}
+
+.hotel-right{
+    height:702;
+    width: 500;
+    border-radius:20px;
+    /* background-color:#ee3; */
+}
